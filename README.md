@@ -1,16 +1,48 @@
-### Hi there 👋
+## 👨🏻‍💻 Python BE Developer Bart Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehwankim07120%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**jaehwankim07120/jaehwankim07120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ TechStack
+
+#### Back-end
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-4479A1?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
+
+
+#### Infra
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20Route53-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+
+
+#### Devops
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CircleCI-232F3E?style=flat-square&logo=CircleCI&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jenkins-232F3E?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+
+
+#### Tool
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Zeplin-F79733?style=flat-square&logo=Skyliner&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
+
+
+[![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehwankim07120&count_private=true&show_icons=true&hide=stars,contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehwankim07120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
