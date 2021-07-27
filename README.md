@@ -81,7 +81,7 @@
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 
 
-[![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehwankim07120&count_private=true&show_icons=true&hide=stars,contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartKim-J&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartKim-J&count_private=true&show_icons=true&hide=stars,contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehwankim07120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
