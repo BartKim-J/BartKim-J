@@ -85,4 +85,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartKim-J&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartKim-J&count_private=true&show_icons=true&hide=stars,contrib)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 [![Bart's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BartKim_J)](https://github.com/anuraghazra/github-readme-stats)
