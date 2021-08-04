@@ -64,7 +64,6 @@
 
 > #### IDE
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>
 
@@ -76,13 +75,13 @@
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-> #### Communication
+> #### Communication Tool
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
-> #### Design Communication
+> #### Design Communication Tool
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zeplin-F79733?style=flat-square&logo=Skyliner&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
