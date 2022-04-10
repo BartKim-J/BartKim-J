@@ -13,24 +13,14 @@
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a>
 
-> ##### Database
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-4479A1?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-
 > ##### Operation System
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
 
-> ##### Web Service Engine
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
-
 > #### Infra
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20Route53-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 
 > #### Devops
@@ -51,10 +41,6 @@
 > #### SVN
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-
-> #### SVN GUI Tool
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 > #### Communication Tool
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
