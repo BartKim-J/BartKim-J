@@ -12,13 +12,4 @@
 > #### Framework
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 > <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ts.ED-092E20?style=flat-square&logo=tsnode&logoColor=white"/></a>
-
-> #### Infra
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
-
-> #### Devops
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/CircleCI-232F3E?style=flat-square&logo=CircleCI&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jenkins-232F3E?style=flat-square&logo=Jenkins&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+> <a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
